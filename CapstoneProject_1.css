@@ -1,0 +1,19 @@
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: rgb(80, 190, 86);
+    color: #fff;
+    
+}
+
+body{
+    text-align: center;
+    background-color: rgb(170, 233, 212);
+}
+
+h1{
+    color: rgb(21, 189, 72);
+    font-weight: bold;
+}
+
